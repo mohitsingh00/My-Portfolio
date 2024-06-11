@@ -61,8 +61,7 @@
 
     #profile {
         margin-top: 3.5rem;
-        margin-bottom: 0;
-
+        margin-bottom: 1rem;
     }
 
     #profile p,
@@ -86,7 +85,7 @@
     }
 
     .contact-info-container {
-        margin: 0;
+        margin: 1rem;
     }
 
     .contact-info-container p,
